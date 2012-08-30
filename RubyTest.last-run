@@ -1,0 +1,5 @@
+{
+	"last_test_file": "create_projects_spec.rb",
+	"last_test_run": "bundle exec rspec spec/requests/login_spec.rb",
+	"last_test_working_dir": "/Users/josh/Dropbox/rails/rails3/props"
+}
